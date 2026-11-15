@@ -1,0 +1,6 @@
+# 音声ファイルはリポジトリに含めない
+sdcard/sounds/**/*.wav
+sdcard/sounds/**/*.WAV
+# Arduinoのローカル生成物
+*.elf
+*.bin

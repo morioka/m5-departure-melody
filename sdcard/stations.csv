@@ -1,0 +1,17 @@
+name,name_wav,on_wav,off_wav
+東京,/sounds/tokyo/name.wav,/sounds/tokyo/on.wav,/sounds/tokyo/off.wav
+品川,/sounds/shinagawa/name.wav,/sounds/shinagawa/on.wav,/sounds/shinagawa/off.wav
+横浜,/sounds/yokohama/name.wav,/sounds/yokohama/on.wav,/sounds/yokohama/off.wav
+大宮,/sounds/omiya/name.wav,/sounds/omiya/on.wav,/sounds/omiya/off.wav
+新宿,/sounds/shinjuku/name.wav,/sounds/shinjuku/on.wav,/sounds/shinjuku/off.wav
+渋谷,/sounds/shibuya/name.wav,/sounds/shibuya/on.wav,/sounds/shibuya/off.wav
+池袋,/sounds/ikebukuro/name.wav,/sounds/ikebukuro/on.wav,/sounds/ikebukuro/off.wav
+上野,/sounds/ueno/name.wav,/sounds/ueno/on.wav,/sounds/ueno/off.wav
+秋葉原,/sounds/akihabara/name.wav,/sounds/akihabara/on.wav,/sounds/akihabara/off.wav
+川崎,/sounds/kawasaki/name.wav,/sounds/kawasaki/on.wav,/sounds/kawasaki/off.wav
+蒲田,/sounds/kamata/name.wav,/sounds/kamata/on.wav,/sounds/kamata/off.wav
+大船,/sounds/ofuna/name.wav,/sounds/ofuna/on.wav,/sounds/ofuna/off.wav
+藤沢,/sounds/fujisawa/name.wav,/sounds/fujisawa/on.wav,/sounds/fujisawa/off.wav
+戸塚,/sounds/totsuka/name.wav,/sounds/totsuka/on.wav,/sounds/totsuka/off.wav
+立川,/sounds/tachikawa/name.wav,/sounds/tachikawa/on.wav,/sounds/tachikawa/off.wav
+八王子,/sounds/hachioji/name.wav,/sounds/hachioji/on.wav,/sounds/hachioji/off.wav
